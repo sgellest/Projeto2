@@ -21,6 +21,7 @@ Após isto, é só acesssar em seu navegador de preferência
 
 ## Estrutura de Pasta
 
+- dia-do-supermercado.webp
 - index.html
 - README.md
 - script.js
